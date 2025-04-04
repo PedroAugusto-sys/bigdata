@@ -97,7 +97,7 @@ uvicorn main:app --reload
 
 ### Dashboard
 
-![Dashboard Preview]([https://i.imgur.com/JQ8w5Rn.png](https://imgur.com/a/DxqKbyB))
+![Dashboard Preview](https://imgur.com/a/DxqKbyB)
 
 **Seções principais:**
 1. Visão geral com métricas
