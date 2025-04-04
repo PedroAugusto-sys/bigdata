@@ -33,10 +33,10 @@ Sistema completo para análise de desempenho educacional com:
 
 ```mermaid
 graph TD
-    A[Frontend - Streamlit] -->|Requests| B[Backend - FastAPI]
-    B -->|Operações CRUD| C[(MongoDB Atlas)]
-    D[ETL - Pandas] --> C
-    E[Ingestão de Dados] --> C
+    A[Frontend - Streamlit] -->|GET Requests| B[Backend - FastAPI]
+    B -->|Operações de Consulta| C[(MongoDB Atlas)]
+    D[ETL/Ingestão] -->|Carregamento Inicial| C
+    E[CSV Files] --> D
 ```
 
 ## ⚙️ Backend
