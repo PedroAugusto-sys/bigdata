@@ -1,6 +1,3 @@
-Aqui está a documentação completa em formato Markdown para você colocar no GitHub:
-
-```markdown
 # 🎓 Sistema de Análise Educacional
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
