@@ -97,8 +97,6 @@ uvicorn main:app --reload
 
 ### Dashboard
 
-![Dashboard Preview](https://imgur.com/a/DxqKbyB)
-
 **Seções principais:**
 1. Visão geral com métricas
 2. Análise de frequência
