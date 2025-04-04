@@ -38,6 +38,13 @@ graph TD
     D[ETL/Ingestão] -->|Carregamento Inicial| C
     E[CSV Files] --> D
 ```
+### Operações Implementadas
+
+| Componente | Create | Read | Update | Delete |
+|------------|--------|------|--------|--------|
+| API FastAPI | ❌ | ✅ | ❌ | ❌ |
+| Ingest.py | ✅ | ❌ | ❌ | ❌ |
+| ETL | ❌ | ✅ | ❌ | ❌ |
 
 ## ⚙️ Backend
 
