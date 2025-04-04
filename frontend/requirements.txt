@@ -1,0 +1,15 @@
+# Framework principal
+streamlit==1.25.0
+
+# Visualização de dados
+plotly==5.15.0
+pandas==2.0.3
+
+# Requests HTTP
+requests==2.31.0
+
+# Manipulação de datas
+python-dateutil==2.8.2
+
+# Variáveis de ambiente (opcional)
+python-dotenv==1.0.0

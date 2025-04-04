@@ -1,0 +1,16 @@
+# Framework principal
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Banco de dados
+pymongo==4.3.3
+motor==3.1.1  # Async MongoDB driver
+
+# Variáveis de ambiente
+python-dotenv==1.0.0
+
+# Validação de dados
+pydantic==1.10.7
+
+# CORS (para o frontend acessar)
+python-multipart==0.0.6
